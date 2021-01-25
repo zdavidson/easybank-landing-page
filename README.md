@@ -6,5 +6,6 @@ This was completed as a challenge project from Frontend Mentors.  The link to th
 The complete project can be found [here](https://zdavidson.github.io/easybank-landing-page/).
 
 ## Tech
-- HTML/CSS
+- HTML
+- Sass
 - JS
