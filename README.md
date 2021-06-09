@@ -1,7 +1,7 @@
 # Easybank Landing Page
 
 ## General Info
-This fully responsive site can be accessed [here](https://zdavidson.github.io/easybank-landing-page/).
+This Adobe XD to HTML and CSS, fully responsive site can be accessed [here](https://zdavidson.github.io/easybank-landing-page/).
 
 ## Tech
 - HTML
